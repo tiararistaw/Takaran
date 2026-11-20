@@ -1,0 +1,11 @@
+{
+  "title": "takaran",
+  "description": "Plan and track daily food production, sales, and leftovers for Indonesian culinary small businesses, with forecasts and insights to reduce waste and costs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
